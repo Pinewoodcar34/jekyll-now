@@ -1,6 +1,6 @@
-body {
-   image: url("https://media.giphy.com/media/7GnnDNH1ocZwc/giphy.gif");
-}
+Cool Gif about what is in my brain.
+https://media.giphy.com/media/7GnnDNH1ocZwc/giphy.gif
+
 
 
 
